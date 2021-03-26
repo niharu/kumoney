@@ -1,1 +1,1 @@
-web: java -jar target/kumony-1.0.jar
+web: java -jar target/kumoney-1.0.jar
